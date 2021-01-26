@@ -1,0 +1,5 @@
+you only need to put this if you want the !mcstats hypixel to work
+
+go to hypixel, then type /api
+
+put your key here
